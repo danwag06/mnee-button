@@ -4,7 +4,7 @@ A lightweight snippet that embeds a “Pay Now” style MNEE button into your ap
 
 ## Buy Me a Coffee ☕️
 
-<a href="https://ordfs.network/content/0d57db756c844f6f8e9bc58306a03e3ad699a5769d94be680a0eba318b5acccb_0" target="_blank">
+<a href="https://ordfs.network/content/003fdb9393b5035655b3e6b94ffcc414ec524d71bcaeaf128eedb9dd8aa8d178_0" target="_blank">
     <button style="background-color: #08121E; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Buy Coffee - Example</button>
 </a>
 
@@ -30,7 +30,7 @@ A lightweight snippet that embeds a “Pay Now” style MNEE button into your ap
       }
     </script>
     <script
-      src="https://ordfs.network/content/a1fcabfc175753d2212078451efc186d17da078c0743b423fba4fc9165c93abc_0"
+      src="https://ordfs.network/content/e6eb85b2eafb52d76c251a69905323bb3a2acb55eea872a62f785598125521d2_0"
       data-mnee-amount="1.50"
       data-mnee-address="15mNxEkyKJXPD8amic6oLUjS45zBKQQoLu"
       data-mnee-color="#08121E"
@@ -90,7 +90,7 @@ const MneeButton = ({
       // Create the script element dynamically
       const script = document.createElement("script");
       script.src =
-        "https://ordfs.network/content/a1fcabfc175753d2212078451efc186d17da078c0743b423fba4fc9165c93abc_0";
+        "https://ordfs.network/content/e6eb85b2eafb52d76c251a69905323bb3a2acb55eea872a62f785598125521d2_0";
       script.async = true;
       script.id = scriptId;
       script.setAttribute("data-mnee-amount", amount.toString());
