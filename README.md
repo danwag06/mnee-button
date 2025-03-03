@@ -4,7 +4,7 @@ A lightweight snippet that embeds a “Pay Now” style MNEE button into your ap
 
 ## Buy Me a Coffee ☕️
 
-<a href="https://ordfs.network/content/65209a201ae68d52fffaa459c7f82d2a2f522f73805eb4b69ad8da8f7b066158_0" target="_blank">
+<a href="https://ordfs.network/content/89f21ead10a054b3b1d40b97b774cd3cd255fc58d8e4c2535259917001e0602c_0" target="_blank">
     <button style="background-color: #08121E; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Buy Coffee - Example</button>
 </a>
 
