@@ -21,8 +21,8 @@ A lightweight snippet that embeds a “Pay Now” style MNEE button into your ap
   </head>
   <body>
     <script>
-      function onPaymentSuccess() {
-        console.log("Payment success triggered!");
+      function onPaymentSuccess(txid) {
+        console.log(`Payment success triggered! 🎉\nTXID: ${txid}`);
       }
 
       function onPaymentError() {
