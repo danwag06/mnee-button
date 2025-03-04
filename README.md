@@ -2,7 +2,7 @@
 
 A lightweight snippet that embeds a “Pay Now” style MNEE button into your application or website. When clicked, it connects to Yours wallet, processes a MNEE payment, and shows a success message. The button is hosted on chain and can be imported as a script.
 
-## Buy Me a Coffee ☕️
+## Buy Dan a Coffee ☕️
 
 <a href="https://ordfs.network/content/301da70c15b21319cfbbc98059c6db49a796ec254616387e4fcd1860b0d62e28_0" target="_blank">
     <button style="background-color: #08121E; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Buy Coffee - Example</button>
