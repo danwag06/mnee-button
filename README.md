@@ -30,7 +30,7 @@ A lightweight snippet that embeds a “Pay Now” style MNEE button into your ap
       }
     </script>
     <script
-      src="https://ordfs.network/content/e6eb85b2eafb52d76c251a69905323bb3a2acb55eea872a62f785598125521d2_0"
+      src="https://ordfs.network/content/95133300ed404038db0a5d705a896c236324043f72e8917c51e30cefe46ac2c8_0"
       data-mnee-amount="1.50"
       data-mnee-address="15mNxEkyKJXPD8amic6oLUjS45zBKQQoLu"
       data-mnee-color="#08121E"
@@ -90,7 +90,7 @@ const MneeButton = ({
       // Create the script element dynamically
       const script = document.createElement("script");
       script.src =
-        "https://ordfs.network/content/e6eb85b2eafb52d76c251a69905323bb3a2acb55eea872a62f785598125521d2_0";
+        "https://ordfs.network/content/95133300ed404038db0a5d705a896c236324043f72e8917c51e30cefe46ac2c8_0";
       script.async = true;
       script.id = scriptId;
       script.setAttribute("data-mnee-amount", amount.toString());
